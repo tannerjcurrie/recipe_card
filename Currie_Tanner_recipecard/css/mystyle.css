@@ -1,0 +1,62 @@
+body,html {
+
+    background-color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{ 
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center
+}
+
+
+h2,h3,h4,h5,h6 { 
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+figcaption{
+    text-align: center
+    
+}
+
+i{
+    font-size: 25px;
+    color: white
+}
+
+
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin:0 auto;
+    border:5px solid white;
+    border-radius: 300px;
+}
+
+ul > li {
+    
+    margin: 0 5px 0 30px;
+   
+    width: 300px;
+  
+}
+
+
+p {
+    color: rgb(103, 104, 124);
+}
+
+h1,h2, h3{
+    color: rgb(45, 67, 114);
+}
+
+ul, li{
+    color: rgb(45, 67, 114);
+}
+
+
